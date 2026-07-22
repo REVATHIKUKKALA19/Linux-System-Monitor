@@ -1,6 +1,6 @@
 # Linux System Monitor
 
-A simple Python-based system monitoring tool.
+A simple Python-based system monitoring tool that displays system information and saves it to a log file.
 
 ## Features
 
@@ -8,7 +8,7 @@ A simple Python-based system monitoring tool.
 - Memory Usage
 - Disk Usage
 - Running Processes
-- Save output to system.log
+- Log File Generation
 
 ## Technologies Used
 
@@ -29,10 +29,12 @@ python monitor.py
 
 ## Output
 
-- Displays CPU, Memory, and Disk Usage
-- Lists Running Processes
-- Saves report to system.log
+- Displays CPU Usage
+- Displays Memory Usage
+- Displays Disk Usage
+- Displays Running Processes
+- Saves report to `system.log`
 
 ## Author
 
-Revathi  
+Revathi
