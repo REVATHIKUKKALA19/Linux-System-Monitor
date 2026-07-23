@@ -76,7 +76,7 @@ PID: 2500   python.exe
 ```
 ## Output Screenshot
 
-![Linux System Monitor](images/screenshot.png)
+![Linux System Monitor](images/Screenshot.png)
 ## 📚 What I Learned
 
 - Python programming fundamentals
