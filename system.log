@@ -1,0 +1,41 @@
+
+===================================
+System Report
+Time: 2026-07-23 21:49:05
+===================================
+
+CPU Usage:
+1.0 %
+
+Memory Usage:
+Used: 9.23 GB
+Available: 6.47 GB
+Percent: 58.8 %
+
+Disk Usage:
+Used: 150.50 GB
+Free: 324.21 GB
+Percent: 31.7 %
+
+Running Processes:
+PID: 0   Name: System Idle Process
+PID: 4   Name: System
+PID: 236   Name: 
+PID: 280   Name: Registry
+PID: 464   Name: explorer.exe
+PID: 948   Name: smss.exe
+PID: 968   Name: WUDFHost.exe
+PID: 1032   Name: WUDFHost.exe
+PID: 1080   Name: svchost.exe
+PID: 1260   Name: csrss.exe
+PID: 1268   Name: cmd.exe
+PID: 1364   Name: wininit.exe
+PID: 1392   Name: spoolsv.exe
+PID: 1496   Name: services.exe
+PID: 1516   Name: LsaIso.exe
+PID: 1524   Name: lsass.exe
+PID: 1672   Name: svchost.exe
+PID: 1692   Name: WUDFHost.exe
+PID: 1724   Name: fontdrvhost.exe
+PID: 1828   Name: svchost.exe
+
